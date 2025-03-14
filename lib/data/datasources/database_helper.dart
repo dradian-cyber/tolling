@@ -1,3 +1,5 @@
+//Handles database creation, queries and updates
+//
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 import '../models/toll_model.dart';

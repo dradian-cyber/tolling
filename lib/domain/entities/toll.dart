@@ -1,4 +1,4 @@
-/// This file defines the Toll class, which represents a toll entity with
+/// Example of Toll class, which represents a toll entity with
 /// properties for id, location, amount, and timestamp.
 class Toll {
   final String id;

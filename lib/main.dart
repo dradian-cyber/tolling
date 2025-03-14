@@ -19,5 +19,5 @@ void main() {
     frequency: Duration(hours: 12), // Runs every 12 hours
   );
 
-  runApp(ToolApp());
+  runApp(TollApp());
 }
